@@ -6,7 +6,7 @@
         {
         "name": "Dark Pastel",
         "foreground": "#ffffff",  // Text 40% darker than the original
-        "background": "#242424",  // Dark gray background
+        "background": "#1E1E1E",  // Dark gray background
         "black": "#4D4D4D",       // Dark gray for black
         "red": "#F28D8D",         // Soft pastel red
         "green": "#A8E6A1",       // Soft pastel green
