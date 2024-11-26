@@ -1,0 +1,26 @@
+// Navigate to C:\Users\<username>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
+// Open settings.json with a text editor
+// Scroll down to "schemes": [ and paste the following 
+
+"schemes": [
+        {
+        "name": "Dark Pastel",
+        "foreground": "#ffffff",  // Text 40% darker than the original
+        "background": "#2A2A2A",  // Dark gray background
+        "black": "#4D4D4D",       // Dark gray for black
+        "red": "#F28D8D",         // Soft pastel red
+        "green": "#A8E6A1",       // Soft pastel green
+        "yellow": "#F3E6A0",      // Soft pastel yellow
+        "blue": "#8DB8E0",        // Soft pastel blue
+        "purple": "#C1A3D9",      // Light pastel purple
+        "cyan": "#A1E2E2",        // Soft pastel cyan
+        "white": "#D6D6D6",       // Slightly muted white
+        "brightBlack": "#6D6D6D", // Lighter dark gray for bright black
+        "brightRed": "#F2B5B5",   // Lighter pastel red
+        "brightGreen": "#B9E4B9", // Lighter pastel green
+        "brightYellow": "#F6E5A3", // Lighter pastel yellow
+        "brightBlue": "#A3C8FF",  // Lighter pastel blue
+        "brightPurple": "#D4B7F2", // Lighter pastel purple
+        "brightCyan": "#C5F3F3",  // Lighter pastel cyan
+        "brightWhite": "#FFFFFF", // Pure white for bright white
+    }
