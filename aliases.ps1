@@ -1,6 +1,9 @@
 # Open profile with notepad 
 notepad $PROFILE
 
+# If you get the error "The system cannot find the path specified," use this command:
+New-Item -Path $PROFILE -ItemType File -Force
+
 # Paste the following and save the file
 Set-Alias c cls
 Set-Alias h hostname
