@@ -1,5 +1,7 @@
+# Open profile with notepad 
 notepad $PROFILE
 
+# Paste the following and save the file
 Set-Alias c cls
 Set-Alias h hostname
 Set-Alias i systeminfo
