@@ -1,4 +1,4 @@
-# Navigate to C:\Users\<username>\AppData\Local\Packages\Microsoft.WindowsTerminal_<string>\LocalState
+// Navigate to C:\Users\<username>\AppData\Local\Packages\Microsoft.WindowsTerminal_<string>\LocalState
 // Open settings.json with a text editor
 // Scroll down to "schemes": [ and paste the following 
 
